@@ -1,4 +1,5 @@
-...layout: post
+...
+layout: post
 title: First Franz Pos on Github
 ...
 
