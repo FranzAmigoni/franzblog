@@ -1,11 +1,11 @@
 
 # basic options
-title: Your awesome title
+title: Franz on GH 
 author: GitHub User
-email: your-email@domain.com
+email: fnz.amigoni@gmail.com 
 description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: franzamigoni
+github_username:  franzamigoni
 
 # Build settings
 markdown: kramdown
