@@ -13,3 +13,5 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+My contacts are [here]("https://franzamigoni.github.io/franzblog/") 
