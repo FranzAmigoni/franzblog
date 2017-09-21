@@ -1,3 +1,6 @@
+...layout: post
+title: First Franz Pos on Github
 ...
-layout: post
-...
+
+This is year 1999. We'll escape!
+
